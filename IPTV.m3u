@@ -1,0 +1,322 @@
+#EXTM3U 
+#####################################################
+#####################################################
+###########         YACIN HD             ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,YACIN SPORTS MAX HD1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/95
+#EXTINF:-1,YACIN SPORTS MAX HD2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/94
+
+
+#EXTINF:-1,YACIN SPORTS MAX HD1
+http://l21.amaniyouhra.xyz:80/live/99625/index.m3u8
+#EXTINF:-1,YACIN SPORTS MAX HD2
+http://l3.amaniyouhra.xyz:80/live/88002/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 1HD
+http://l3.amaniyouhra.xyz:80/live/61616/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 2HD
+http://l3.amaniyouhra.xyz:80/live/6161949878/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 3HD
+http://l3.amaniyouhra.xyz:80/live/61512788878/index.m3u8
+#EXTINF:-1,YACIN SPORTS 1HD
+http://l3.amaniyouhra.xyz:80/live/918454578001/index.m3u8
+#EXTINF:-1,YACIN SPORTS 2HD
+http://l3.amaniyouhra.xyz:80/live/69854211/index.m3u8
+#EXTINF:-1,YACIN SPORTS 3HD
+http://l3.amaniyouhra.xyz:80/live/645587700/index.m3u8
+#EXTINF:-1,YACIN SPORTS 4HD
+http://l3.amaniyouhra.xyz:80/live/9787488847/index.m3u8
+#EXTINF:-1,YACIN SPORTS 5HD
+http://l3.amaniyouhra.xyz:80/live/610303030/index.m3u8
+#EXTINF:-1,YACIN SPORTS 6HD
+http://l3.amaniyouhra.xyz:80/live/1515000000/index.m3u8
+#EXTINF:-1,YACIN SPORTS 7HD
+http://l3.amaniyouhra.xyz:80/live/791001144/index.m3u8
+
+#####################################################
+#####################################################
+###########         YACIN SD             ############
+#####################################################
+#####################################################
+
+
+#EXTINF:-1,YACIN SPORTS MAX 1
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/92
+#EXTINF:-1,YACIN SPORTS MAX 2
+http://yazansportpro.xyz:25461/livesport_ios/livesport_android/93
+
+#EXTINF:-1,YACIN SPORTS MAX 1
+http://l21.amaniyouhra.xyz:80/live/50002/index.m3u8
+#EXTINF:-1,YACIN SPORTS MAX 2
+http://l3.amaniyouhra.xyz:80/live/51514/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 1SD
+http://l3.amaniyouhra.xyz:80/live/88824/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 2SD
+http://l3.amaniyouhra.xyz:80/live/794812458/index.m3u8
+#EXTINF:-1,YACIN SPORT PREMIUM 3SD
+http://l3.amaniyouhra.xyz:80/live/179885588/index.m3u8
+#EXTINF:-1,YACIN SPORTS 1SD
+http://l3.amaniyouhra.xyz:80/live/978488877005/index.m3u8
+#EXTINF:-1,YACIN SPORTS 2SD
+http://l3.amaniyouhra.xyz:80/live/10011244/index.m3u8
+#EXTINF:-1,YACIN SPORTS 3SD
+http://l3.amaniyouhra.xyz:80/live/161988840/index.m3u8
+#EXTINF:-1,YACIN SPORTS 4SD
+http://l3.amaniyouhra.xyz:80/live/0103088447/index.m3u8
+#EXTINF:-1,YACIN SPORTS 5SD
+http://l3.amaniyouhra.xyz:80/live/115451004/index.m3u8
+#EXTINF:-1,YACIN SPORTS 6SD
+http://l3.amaniyouhra.xyz:80/live/788550011/index.m3u8
+#EXTINF:-1,YACIN SPORTS 7SD
+http://l3.amaniyouhra.xyz:80/live/100666696/index.m3u8
+
+#####################################################
+#####################################################
+###########           BEIN 4K            ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN SPORTS 4K
+http://yassooo.com:8080/Manaf/Manaf123/120006
+#EXTINF:-1,beIN SPORTS 4K 
+http://yassooo.com:8080/Manaf/Manaf123/120005
+
+#EXTINF:-1,BEIN SPORTS MAX 1 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120006
+#EXTINF:-1,BEIN SPORTS MAX 2 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120005
+#EXTINF:-1,BEIN SPORTS MAX 1 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120676
+#EXTINF:-1,BEIN SPORTS MAX 2 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120677
+#EXTINF:-1,BEIN SPORTS MAX 1 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120810
+#EXTINF:-1,BEIN SPORTS MAX 2 4K 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120809
+
+
+
+#####################################################
+#####################################################
+###########          BEIN FHD            ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,BEIN SPORTS MAX 1 FHD
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120808
+#EXTINF:-1,BEIN SPORTS MAX 2 FHD
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
+#EXTINF:-1,BEIN SPORTS MAX 1 FHD
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
+#EXTINF:-1,BEIN SPORTS MAX 2 FHD
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
+
+
+#####################################################
+#####################################################
+###########          BEIN HD             ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN SPORTS MAX HD1
+http://yassooo.com:8080/Manaf/Manaf123/120012
+#EXTINF:-1,beIN SPORTS MAX HD2
+http://yassooo.com:8080/Manaf/Manaf123/120011
+
+#EXTINF:-1,BEIN SPORTS MAX HD1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120012
+#EXTINF:-1,BEIN SPORTS MAX HD2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120011
+#EXTINF:-1,BEIN SPORTS MAX HD1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120680
+#EXTINF:-1,BEIN SPORTS MAX HD2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120681
+#EXTINF:-1,BEIN SPORTS MAX HD1
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120806
+#EXTINF:-1,BEIN SPORTS MAX HD2
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120805
+
+
+
+
+#####################################################
+#####################################################
+###########          BEIN SD             ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,beIN SPORTS MAX 1 
+http://yassooo.com:8080/Manaf/Manaf123/120000
+#EXTINF:-1,beIN SPORTS MAX 2 
+http://yassooo.com:8080/Manaf/Manaf123/119999
+
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120000
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/119999
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120678
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120679
+#EXTINF:-1,BEIN SPORTS MAX 1 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120804
+#EXTINF:-1,BEIN SPORTS MAX 2 
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/120803
+
+#####################################################
+#####################################################
+###########         BEIN ALL             ############
+#####################################################
+#####################################################
+
+
+#EXTINF:-1,beIN Sports 1 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/13
+#EXTINF:-1,beIN Sports 2 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/14
+#EXTINF:-1,beIN Sports 3 Premium 
+http://174.138.184.166:25461/livesport_ios/livesport_android/15
+#EXTINF:-1,beIN Sports 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/16
+#EXTINF:-1,beIN Sports 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/17
+#EXTINF:-1,beIN Sports 3 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/18
+#EXTINF:-1,beIN Sports 4 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/19
+#EXTINF:-1,beIN Sports 5 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/20
+#EXTINF:-1,beIN Sports 1 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/26
+#EXTINF:-1,beIN Sports 2 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/27
+#EXTINF:-1,beIN Sports 3 Premium
+http://174.138.184.166:25461/livesport_ios/livesport_android/28
+#EXTINF:-1,beIN Sports 1 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/29
+#EXTINF:-1,beIN Sports 2 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/30
+#EXTINF:-1,beIN Sports 3 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/31
+#EXTINF:-1,beIN Sports 4 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/32
+#EXTINF:-1,beIN Sports 5 SD
+http://174.138.184.166:25461/livesport_ios/livesport_android/33
+#EXTINF:-1,beIN Sport XTRA 1 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/56
+#EXTINF:-1,beIN Sport XTRA 2 HD
+http://174.138.184.166:25461/livesport_ios/livesport_android/57
+
+
+
+#####################################################
+#####################################################
+###########             OSN              ############
+#####################################################
+#####################################################
+
+#EXTINF:-1,OSN Yahala
+http://yassooo.com:8080/Manaf/Manaf123/80233
+#EXTINF:-1,OSN Yahala Oula
+http://yassooo.com:8080/Manaf/Manaf123/80232
+#EXTINF:-1,OSN Yahala Cinema
+http://yassooo.com:8080/Manaf/Manaf123/80231
+#EXTINF:-1,OSN Series
+http://yassooo.com:8080/Manaf/Manaf123/80230
+#EXTINF:-1,OSN Action
+http://yassooo.com:8080/Manaf/Manaf123/80229
+#EXTINF:-1,OSN Movies
+http://yassooo.com:8080/Manaf/Manaf123/80228
+#EXTINF:-1,OSN Movies First
+http://yassooo.com:8080/Manaf/Manaf123/80227
+#EXTINF:-1,OSN Movies First +2
+http://yassooo.com:8080/Manaf/Manaf123/80226
+#EXTINF:-1,OSN Movies Disney
+http://yassooo.com:8080/Manaf/Manaf123/80225
+#EXTINF:-1,OSN Enigma
+http://yassooo.com:8080/Manaf/Manaf123/80224
+#EXTINF:-1,OSN Kids
+http://yassooo.com:8080/Manaf/Manaf123/80223
+#EXTINF:-1,OSN Series First
+http://yassooo.com:8080/Manaf/Manaf123/80222
+#EXTINF:-1,OSN Series Comedy
+http://yassooo.com:8080/Manaf/Manaf123/80221
+#EXTINF:-1,OSN Star Movies
+http://yassooo.com:8080/Manaf/Manaf123/80220
+#EXTINF:-1,OSN Star World
+http://yassooo.com:8080/Manaf/Manaf123/80219
+#EXTINF:-1,OSN TLC
+http://yassooo.com:8080/Manaf/Manaf123/80218
+#EXTINF:-1,OSN Crime
+http://yassooo.com:8080/Manaf/Manaf123/80217
+#EXTINF:-1,OSN Comedy Central
+http://yassooo.com:8080/Manaf/Manaf123/80216
+#EXTINF:-1,OSN E!
+http://yassooo.com:8080/Manaf/Manaf123/80215
+#EXTINF:-1,OSN Living
+http://yassooo.com:8080/Manaf/Manaf123/80214
+#EXTINF:-1,OSN Alfa AlFann
+http://yassooo.com:8080/Manaf/Manaf123/80212
+#EXTINF:-1,OSN Alfa Al Safwa
+http://yassooo.com:8080/Manaf/Manaf123/80211
+#EXTINF:-1,OSN Alfa Alyoum
+http://yassooo.com:8080/Manaf/Manaf123/80210
+#EXTINF:-1,OSN Alfa Cinema 1
+http://yassooo.com:8080/Manaf/Manaf123/80209
+#EXTINF:-1,OSN Alfa Cinema 2
+http://yassooo.com:8080/Manaf/Manaf123/80208
+#EXTINF:-1,OSN Alfa Musalsalat
+http://yassooo.com:8080/Manaf/Manaf123/80207
+#EXTINF:-1,OSN Alfa Music Now
+http://yassooo.com:8080/Manaf/Manaf123/80205
+#EXTINF:-1,OSN News
+http://yassooo.com:8080/Manaf/Manaf123/80204
+#EXTINF:-1,OSN History
+http://yassooo.com:8080/Manaf/Manaf123/80203
+#EXTINF:-1,OSN H2
+http://yassooo.com:8080/Manaf/Manaf123/80202
+#EXTINF:-1,OSN Nat Geo
+http://yassooo.com:8080/Manaf/Manaf123/80201
+#EXTINF:-1,OSN Nat People
+http://yassooo.com:8080/Manaf/Manaf123/80200
+#EXTINF:-1,OSN Nat Geo Wild
+http://yassooo.com:8080/Manaf/Manaf123/80199
+#EXTINF:-1,OSN Discovery
+http://yassooo.com:8080/Manaf/Manaf123/80198
+#EXTINF:-1,OSN Discovery ID
+http://yassooo.com:8080/Manaf/Manaf123/80197
+#EXTINF:-1,OSN Discovery SC
+http://yassooo.com:8080/Manaf/Manaf123/80196
+#EXTINF:-1,OSN Disney
+http://yassooo.com:8080/Manaf/Manaf123/80195
+#EXTINF:-1,OSN Disney Junior
+http://yassooo.com:8080/Manaf/Manaf123/80194
+#EXTINF:-1,OSN Baby
+http://yassooo.com:8080/Manaf/Manaf123/80193
+#EXTINF:-1,OSN Nickelodeon
+http://yassooo.com:8080/Manaf/Manaf123/80192
+#EXTINF:-1,OSN Nick Jr
+http://yassooo.com:8080/Manaf/Manaf123/80191
+#EXTINF:-1,OSN Nick Toon
+http://yassooo.com:8080/Manaf/Manaf123/80190
+#EXTINF:-1,OSN Kids Zone
+http://yassooo.com:8080/Manaf/Manaf123/80189
+
+#####################################################
+#####################################################
+###########         SSC Sport            ############
+#####################################################
+#####################################################
+#EXTINF:-1,SSC5 HD
+http://yassooo.com:8080/Manaf/Manaf123/98913
+#EXTINF:-1,SSC5 HD
+http://s1.urhdiptv.net:8080/Manaf/Manaf123/98913
+#EXTINF:-1,SSC5 HD
+http://opplex.tv:8080/dawood/dawood/218722
+#EXTINF:-1,SSC5 HD
+http://s2.famousiptv.com:8080/sultan/sultan123/80042
+#EXTINF:-1,SSC5 HD
+http://mytv.fun:8080/8o7ayyktcn/17ilrf7g7e/691278
