@@ -71,33 +71,33 @@ http://s1.urhdiptv.net:8080/Manaf/Manaf123/120807
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120674
 #EXTINF:-1,BEIN SPORTS MAX 2 FHD
 http://s1.urhdiptv.net:8080/Manaf/Manaf123/120675
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max FHD-1" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",BeIN Sport Max FHD-1
+#EXTINF:-1,BeIN Sport Max FHD-1
 http://lionztv.com:8080/666666/999999/321969
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max FHD-2" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",BeIN Sport Max FHD-2
+#EXTINF:-1,BeIN Sport Max FHD-2
 http://lionztv.com:8080/666666/999999/321968
-#EXTINF:-1 tvg-id="" tvg-name="VIP:BeIN Sport Max 1 HD" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",VIP:BeIN Sport Max 1 HD
+#EXTINF:-1,VIP:BeIN Sport Max 1 HD
 http://lionztv.com:8080/666666/999999/321951
-#EXTINF:-1 tvg-id="" tvg-name="VIP:BeIN Sport Max 2 HD" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",VIP:BeIN Sport Max 2 HD
+#EXTINF:-1,VIP:BeIN Sport Max 2 HD
 http://lionztv.com:8080/666666/999999/321950
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max FHD-1+" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",BeIN Sport Max FHD-1+
+#EXTINF:-1,BeIN Sport Max FHD-1+
 http://lionztv.com:8080/666666/999999/321967
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max FHD-2+" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",BeIN Sport Max FHD-2+
+#EXTINF:-1,BeIN Sport Max FHD-2+
 http://lionztv.com:8080/666666/999999/321966
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max FHD 1" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",BeIN Sport Max FHD 1
+#EXTINF:-1,BeIN Sport Max FHD 1
 http://lionztv.com:8080/666666/999999/321963
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max FHD 2" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",BeIN Sport Max FHD 2
+#EXTINF:-1,BeIN Sport Max FHD 2
 http://lionztv.com:8080/666666/999999/321962
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL SS | Bein Sports max | HD 1" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",LOCAL SS | Bein Sports max | HD 1
+#EXTINF:-1,LOCAL SS | Bein Sports max | HD 1
 http://lionztv.com:8080/666666/999999/321959
-#EXTINF:-1 tvg-id="" tvg-name="LOCAL SS | Bein Sports max | HD 2" tvg-logo="" group-title="BEIN  MAX  [ FHD - HD ]",LOCAL SS | Bein Sports max | HD 2
+#EXTINF:-1,LOCAL SS | Bein Sports max | HD 2
 http://lionztv.com:8080/666666/999999/321958
-#EXTINF:-1 tvg-id="" tvg-name="2| beIN SPORTS MAX1 HD" tvg-logo="" group-title="BEIN  MAX [ SD - H265 - LOW ]",2| beIN SPORTS MAX1 HD
+#EXTINF:-1,2| beIN SPORTS MAX1 HD
 http://lionztv.com:8080/666666/999999/321955
-#EXTINF:-1 tvg-id="" tvg-name="2| beIN SPORTS MAX2 HD" tvg-logo="" group-title="BEIN  MAX [ SD - H265 - LOW ]",2| beIN SPORTS MAX2 HD
+#EXTINF:-1,2| beIN SPORTS MAX2 HD
 http://lionztv.com:8080/666666/999999/321954
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max 1 H265" tvg-logo="" group-title="BEIN  MAX [ SD - H265 - LOW ]",BeIN Sport Max 1 H265
+#EXTINF:-1,BeIN Sport Max 1 H265
 http://lionztv.com:8080/666666/999999/321949
-#EXTINF:-1 tvg-id="" tvg-name="BeIN Sport Max 2 H265" tvg-logo="" group-title="BEIN  MAX [ SD - H265 - LOW ]",BeIN Sport Max 2 H265
+#EXTINF:-1,BeIN Sport Max 2 H265
 http://lionztv.com:8080/666666/999999/321948
 #EXTINF:-1,BeIN Sport Max1 hevc 
 http://tv.allkaicerteam.com:8080/kaicer_VIPq8fmt4/tjaf3b/3909
